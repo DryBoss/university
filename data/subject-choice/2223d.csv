@@ -1,0 +1,959 @@
+Merit,Department,HSC Group
+10,Dept. of Law,Science
+13,Dept. of Law,Humanities
+15,Dept. of Law,Humanities
+16,Dept. of Law,Humanities
+17,Dept. of Law,Humanities
+20,Dept. of Law,Humanities
+23,Dept. of Law,Humanities
+24,Dept. of Law,Humanities
+26,Dept. of Law,Humanities
+27,Dept. of Law,Humanities
+30,Dept. of Law,Humanities
+31,Dept. of Law,Science
+32,Dept. of Law,Humanities
+39,Dept. of Law,Humanities
+42,Dept. of Law,Humanities
+43,Dept. of Law,Humanities
+45,Dept. of Law,Humanities
+48,Dept. of Law,Humanities
+50,Dept. of Law,Humanities
+53,Dept. of Law,Humanities
+54,Dept. of Law,Humanities
+55,Dept. of Law,Humanities
+61,Dept. of Law,Humanities
+62,Dept. of Law,Humanities
+64,Dept. of Law,Humanities
+65,Dept. of Law,Humanities
+67,Dept. of Law,Business Studies
+68,Dept. of Law,Humanities
+71,Dept. of Law,Humanities
+72,Dept. of Law,Humanities
+73,Dept. of Law,Science
+76,Dept. of Law,Humanities
+77,Dept. of Law,Humanities
+80,Dept. of Law,Humanities
+82,Dept. of Law,Humanities
+84,Dept. of Law,Science
+85,Dept. of Law,Science
+86,Dept. of Law,Humanities
+91,Dept. of Law,Humanities
+92,Dept. of Law,Humanities
+93,Dept. of Law,Humanities
+95,Dept. of Law,Science
+98,Dept. of Law,Humanities
+101,Dept. of Law,Humanities
+102,Dept. of Law,Science
+103,Dept. of Law,Humanities
+104,Dept. of Law,Science
+105,Dept. of Law,Humanities
+106,Dept. of Law,Humanities
+107,Dept. of Law,Business Studies
+110,Dept. of Law,Humanities
+113,Dept. of Law,Humanities
+114,Dept. of Law,Humanities
+116,Dept. of Law,Business Studies
+119,Dept. of Law,Humanities
+120,Dept. of Law,Science
+126,Dept. of Law,Humanities
+131,Dept. of Law,Humanities
+133,Dept. of Law,Humanities
+134,Dept. of Law,Humanities
+135,Dept. of Law,Humanities
+140,Dept. of Law,Humanities
+141,Dept. of Law,Science
+143,Dept. of Law,Humanities
+146,Dept. of Law,Humanities
+151,Dept. of Law,Humanities
+152,Dept. of Law,Humanities
+154,Dept. of Law,Humanities
+166,Dept. of Law,Humanities
+169,Dept. of Law,Business Studies
+173,Dept. of Law,Science
+174,Dept. of Law,Business Studies
+175,Dept. of Law,Science
+179,Dept. of Law,Humanities
+182,Dept. of Law,Science
+184,Dept. of Law,Humanities
+186,Dept. of Law,Humanities
+188,Dept. of Law,Humanities
+189,Dept. of International Relation,Humanities
+190,Dept. of Law,Science
+191,Dept. of International Relation,Humanities
+192,Dept. of Law,Humanities
+193,Dept. of Law,Humanities
+195,Dept. of Law,Humanities
+201,Dept. of Law,Humanities
+212,Dept. of Law,Science
+214,Dept. of Law,Humanities
+217,Dept. of Political Science,Science
+221,Dept. of Law,Science
+222,Dept. of Law,Humanities
+223,Dept. of Law,Science
+225,Dept. of Economics,Science
+231,Dept. of Law,Humanities
+232,Dept. of Law,Humanities
+233,Dept. of Law,Humanities
+236,Dept. of Economics,Humanities
+239,Dept. of Law,Humanities
+241,Dept. of Law,Humanities
+250,Dept. of Law,Humanities
+252,Dept. of Law,Humanities
+253,Dept. of Law,Humanities
+254,Dept. of Law,Humanities
+255,Dept. of Law,Science
+256,Dept. of Law,Humanities
+257,Dept. of Law,Humanities
+258,Dept. of Law,Humanities
+259,Dept. of Law,Humanities
+262,Dept. of Law,Business Studies
+263,Dept. of Law,Humanities
+265,Dept. of International Relation,Humanities
+280,Dept. of International Relation,Humanities
+281,Dept. of Law,Humanities
+282,Dept. of Law,Humanities
+285,Dept. of Law,Humanities
+286,Dept. of Law,Science
+289,Dept. of Law,Science
+292,Dept. of Political Science,Humanities
+297,Dept. of Economics,Humanities
+305,Dept. of Law,Humanities
+309,Dept. of Economics,Humanities
+310,Dept. of Law,Humanities
+311,Dept. of International Relation,Science
+320,Dept. of Law,Humanities
+321,Dept. of Law,Business Studies
+325,Dept. of Economics,Science
+328,Dept. of Law,Humanities
+335,Dept. of Law,Humanities
+336,Dept. of Economics,Humanities
+338,Dept. of Economics,Science
+339,Dept. of Public Administration,Business Studies
+343,Dept. of International Relation,Humanities
+346,Dept. of Economics,Science
+347,Dept. of International Relation,Humanities
+349,Dept. of International Relation,Humanities
+351,Dept. of International Relation,Humanities
+359,Dept. of International Relation,Humanities
+362,Dept. of Economics,Humanities
+375,Dept. of Economics,Science
+376,Dept. of Economics,Humanities
+378,Dept. of Economics,Humanities
+382,Dept. of Economics,Science
+383,Dept. of International Relation,Science
+384,Dept. of Economics,Science
+386,Dept. of Economics,Humanities
+393,Dept. of International Relation,Business Studies
+394,Dept. of Economics,Science
+397,Dept. of Economics,Science
+398,Dept. of International Relation,Science
+399,Dept. of Communication & Journalism,Business Studies
+404,Dept. of Development Studies,Humanities
+407,Dept. of Economics,Science
+411,Dept. of Political Science,Humanities
+412,Dept. of International Relation,Humanities
+414,Dept. of Economics,Humanities
+416,Dept. of International Relation,Science
+420,Dept. of Economics,Humanities
+421,Dept. of Economics,Humanities
+422,Dept. of International Relation,Humanities
+423,Dept. of International Relation,Humanities
+426,Dept. of Economics,Business Studies
+427,Dept. of Political Science,Humanities
+429,Dept. of Economics,Humanities
+430,Dept. of Public Administration,Business Studies
+431,Dept. of Economics,Humanities
+436,Dept. of Economics,Humanities
+438,Dept. of Development Studies,Humanities
+441,Dept. of Economics,Business Studies
+448,Dept. of International Relation,Humanities
+452,Dept. of Public Administration,Humanities
+458,Dept. of Economics,Humanities
+459,Dept. of Economics,Humanities
+462,Dept. of Economics,Humanities
+466,Dept. of Economics,Science
+469,Dept. of Economics,Humanities
+474,Dept. of Economics,Humanities
+478,Dept. of Political Science,Humanities
+479,Dept. of Economics,Humanities
+480,Dept. of International Relation,Humanities
+481,Dept. of Economics,Science
+484,Dept. of Economics,Humanities
+487,Dept. of Economics,Humanities
+494,Dept. of Economics,Science
+496,Dept. of Political Science,Humanities
+503,Dept. of Economics,Humanities
+507,Dept. of Economics,Business Studies
+508,Dept. of Economics,Humanities
+512,Dept. of International Relation,Science
+516,Dept. of Economics,Humanities
+519,Dept. of Public Administration,Science
+520,Dept. of International Relation,Humanities
+522,Dept. of Criminology & Police Science,Humanities
+525,Dept. of Economics,Science
+526,Dept. of Economics,Humanities
+528,Dept. of Economics,Business Studies
+530,Dept. of Economics,Humanities
+533,Dept. of Economics,Humanities
+535,Dept. of Economics,Humanities
+536,Dept. of Economics,Science
+540,Dept. of International Relation,Science
+546,Dept. of International Relation,Humanities
+548,Dept. of Economics,Humanities
+553,Dept. of International Relation,Humanities
+557,Dept. of International Relation,Humanities
+558,Dept. of International Relation,Humanities
+559,Dept. of Economics,Business Studies
+561,Dept. of International Relation,Humanities
+564,Dept. of Economics,Humanities
+565,Dept. of Economics,Humanities
+566,Dept. of Political Science,Humanities
+567,Dept. of International Relation,Science
+574,Dept. of Sociology,Humanities
+575,Dept. of Economics,Humanities
+579,Dept. of International Relation,Science
+580,Dept. of Public Administration,Humanities
+583,Dept. of Political Science,Humanities
+588,Dept. of Political Science,Science
+589,Dept. of Political Science,Humanities
+591,Dept. of International Relation,Science
+594,Dept. of Economics,Humanities
+597,Dept. of Sociology,Humanities
+598,Dept. of Political Science,Humanities
+612,Dept. of Economics,Humanities
+614,Dept. of Political Science,Humanities
+618,Dept. of International Relation,Science
+621,Dept. of Public Administration,Humanities
+622,Dept. of Economics,Science
+623,Dept. of International Relation,Business Studies
+624,Dept. of Economics,Science
+627,Dept. of Economics,Science
+628,Dept. of Economics,Science
+635,Dept. of Economics,Humanities
+640,Dept. of Economics,Humanities
+641,Dept. of Political Science,Humanities
+645,Dept. of Political Science,Humanities
+646,Dept. of Economics,Humanities
+649,Dept. of Development Studies,Humanities
+651,Dept. of Economics,Humanities
+652,Dept. of International Relation,Humanities
+656,Dept. of International Relation,Science
+658,Dept. of International Relation,Science
+662,Dept. of International Relation,Humanities
+669,Dept. of International Relation,Business Studies
+670,Dept. of International Relation,Humanities
+671,Dept. of Economics,Business Studies
+678,Dept. of International Relation,Humanities
+686,Dept. of Political Science,Humanities
+691,Dept. of Economics,Science
+696,Dept. of International Relation,Science
+700,Dept. of Economics,Humanities
+704,Dept. of International Relation,Science
+708,Dept. of Political Science,Humanities
+709,Dept. of Development Studies,Humanities
+711,Dept. of International Relation,Science
+712,Dept. of International Relation,Humanities
+713,Dept. of Economics,Business Studies
+714,Dept. of International Relation,Humanities
+716,Dept. of International Relation,Humanities
+717,Dept. of Political Science,Humanities
+721,Dept. of Economics,Business Studies
+722,Dept. of International Relation,Humanities
+724,Dept. of Political Science,Humanities
+727,Dept. of International Relation,Science
+733,Dept. of International Relation,Humanities
+737,Dept. of International Relation,Humanities
+741,Dept. of International Relation,Humanities
+743,Dept. of International Relation,Science
+744,Dept. of International Relation,Humanities
+746,Dept. of International Relation,Humanities
+748,Dept. of International Relation,Humanities
+749,Dept. of Political Science,Humanities
+755,Dept. of Political Science,Humanities
+758,Dept. of Public Administration,Humanities
+759,Dept. of Political Science,Humanities
+760,Dept. of Public Administration,Humanities
+761,Dept. of Economics,Science
+763,Dept. of Public Administration,Humanities
+767,Dept. of Economics,Science
+771,Dept. of International Relation,Science
+773,Dept. of Public Administration,Humanities
+774,Dept. of Public Administration,Humanities
+777,Dept. of Public Administration,Humanities
+783,Dept. of Political Science,Humanities
+785,Dept. of Criminology & Police Science,Business Studies
+788,Dept. of Political Science,Science
+790,Dept. of Economics,Science
+793,Dept. of Communication & Journalism,Humanities
+794,Dept. of Public Administration,Humanities
+798,Dept. of Political Science,Humanities
+802,Dept. of Public Administration,Science
+803,Dept. of Public Administration,Humanities
+813,Dept. of Political Science,Humanities
+816,Dept. of Public Administration,Humanities
+817,Dept. of Political Science,Humanities
+819,Dept. of Political Science,Humanities
+821,Dept. of International Relation,Science
+822,Dept. of Political Science,Humanities
+823,Dept. of Political Science,Humanities
+824,Dept. of Public Administration,Humanities
+825,Dept. of Political Science,Humanities
+828,Dept. of Political Science,Humanities
+829,Dept. of International Relation,Science
+830,Dept. of Political Science,Humanities
+832,Dept. of Political Science,Humanities
+840,Dept. of Public Administration,Humanities
+843,Dept. of Criminology & Police Science,Humanities
+844,Dept. of Development Studies,Humanities
+845,Dept. of Public Administration,Humanities
+846,Dept. of Public Administration,Humanities
+849,Dept. of International Relation,Science
+852,Dept. of Political Science,Humanities
+856,Dept. of Public Administration,Humanities
+858,Dept. of Development Studies,Humanities
+859,Dept. of Public Administration,Humanities
+861,Dept. of Public Administration,Humanities
+862,Dept. of Economics,Science
+863,Dept. of Economics,Science
+866,Dept. of Public Administration,Humanities
+869,Dept. of Political Science,Humanities
+871,Dept. of Political Science,Humanities
+872,Dept. of Public Administration,Humanities
+874,Dept. of Political Science,Humanities
+876,Dept. of Political Science,Humanities
+877,Dept. of Public Administration,Business Studies
+878,Dept. of Public Administration,Humanities
+879,Dept. of Political Science,Science
+882,Dept. of Political Science,Humanities
+884,Dept. of Political Science,Humanities
+885,Dept. of Public Administration,Humanities
+886,Dept. of Political Science,Humanities
+887,Dept. of Economics,Science
+888,Dept. of Public Administration,Humanities
+900,Dept. of Economics,Science
+901,Dept. of Economics,Science
+903,Dept. of Public Administration,Humanities
+907,Dept. of Sociology,Humanities
+910,Dept. of International Relation,Business Studies
+915,Dept. of Public Administration,Humanities
+917,Dept. of Political Science,Humanities
+918,Dept. of Sociology,Humanities
+925,Dept. of Political Science,Humanities
+930,Dept. of Criminology & Police Science,Science
+938,Dept. of Political Science,Humanities
+940,Dept. of Economics,Science
+943,Dept. of Political Science,Humanities
+944,Dept. of Economics,Business Studies
+948,Dept. of Economics,Science
+950,Dept. of Economics,Business Studies
+957,Dept. of Political Science,Humanities
+964,Dept. of Economics,Science
+968,Dept. of Criminology & Police Science,Science
+969,Dept. of Public Administration,Science
+971,Dept. of Public Administration,Business Studies
+973,Dept. of Economics,Science
+977,Dept. of Criminology & Police Science,Science
+979,Dept. of Political Science,Humanities
+981,Dept. of Economics,Science
+984,Dept. of Public Administration,Humanities
+986,Dept. of Public Administration,Science
+990,Dept. of International Relation,Science
+991,Dept. of Sociology,Humanities
+995,Dept. of Public Administration,Science
+999,Dept. of Criminology & Police Science,Humanities
+1001,Dept. of Criminology & Police Science,Humanities
+1002,Dept. of Political Science,Humanities
+1004,Dept. of Political Science,Humanities
+1005,Dept. of Political Science,Humanities
+1006,Dept. of Political Science,Humanities
+1014,Dept. of Public Administration,Humanities
+1015,Dept. of Economics,Science
+1019,Dept. of Criminology & Police Science,Science
+1024,Dept. of Political Science,Humanities
+1025,Dept. of Development Studies,Humanities
+1026,Dept. of Public Administration,Humanities
+1028,Dept. of Public Administration,Humanities
+1030,Dept. of Political Science,Humanities
+1040,Dept. of Development Studies,Humanities
+1041,Dept. of Economics,Science
+1044,Dept. of Political Science,Humanities
+1046,Dept. of Public Administration,Humanities
+1047,Dept. of Economics,Science
+1048,Dept. of Economics,Science
+1055,Dept. of Economics,Science
+1057,Dept. of Geography and Environmental Studies,Humanities
+1060,Dept. of Economics,Business Studies
+1066,Dept. of Public Administration,Humanities
+1067,Dept. of International Relation,Science
+1070,Dept. of Political Science,Humanities
+1074,Dept. of Political Science,Humanities
+1075,Dept. of Economics,Science
+1078,Dept. of Public Administration,Humanities
+1079,Dept. of Public Administration,Humanities
+1082,Dept. of Economics,Science
+1083,Dept. of Economics,Business Studies
+1085,Dept. of Sociology,Humanities
+1088,Dept. of Economics,Science
+1094,Dept. of Communication & Journalism,Humanities
+1096,Dept. of Economics,Business Studies
+1099,Dept. of Sociology,Humanities
+1101,Dept. of Public Administration,Humanities
+1102,Dept. of Public Administration,Humanities
+1105,Dept. of Public Administration,Humanities
+1106,Dept. of Public Administration,Humanities
+1107,Dept. of Economics,Business Studies
+1109,Dept. of Sociology,Humanities
+1112,Dept. of Sociology,Humanities
+1113,Dept. of Sociology,Science
+1114,Dept. of Public Administration,Humanities
+1121,Dept. of Criminology & Police Science,Humanities
+1122,Dept. of Economics,Business Studies
+1123,Dept. of Public Administration,Science
+1125,Dept. of Psychology,Humanities
+1129,Dept. of Criminology & Police Science,Humanities
+1132,Dept. of Public Administration,Science
+1133,Dept. of Economics,Science
+1134,Dept. of Economics,Science
+1135,Dept. of Economics,Business Studies
+1138,Dept. of Economics,Science
+1150,Dept. of Criminology & Police Science,Humanities
+1151,Dept. of Sociology,Science
+1152,Dept. of Sociology,Humanities
+1155,Dept. of Economics,Science
+1160,Dept. of International Relation,Business Studies
+1162,Dept. of Public Administration,Humanities
+1165,Dept. of Economics,Business Studies
+1166,Dept. of Economics,Science
+1167,Dept. of Public Administration,Science
+1171,Dept. of Public Administration,Humanities
+1172,Dept. of Public Administration,Humanities
+1178,Dept. of Sociology,Humanities
+1179,Dept. of Economics,Business Studies
+1180,Dept. of Public Administration,Humanities
+1181,Dept. of Public Administration,Humanities
+1183,Dept. of Development Studies,Humanities
+1185,Dept. of Communication & Journalism,Humanities
+1188,Dept. of Economics,Science
+1189,Dept. of Economics,Science
+1198,Dept. of International Relation,Science
+1209,Dept. of Sociology,Humanities
+1216,Dept. of Criminology & Police Science,Humanities
+1221,Dept. of Public Administration,Humanities
+1223,Dept. of International Relation,Business Studies
+1224,Dept. of Sociology,Humanities
+1229,Dept. of Public Administration,Humanities
+1232,Dept. of Economics,Science
+1234,Dept. of Sociology,Humanities
+1236,Dept. of Sociology,Humanities
+1237,Dept. of International Relation,Science
+1238,Dept. of Sociology,Humanities
+1242,Dept. of Public Administration,Business Studies
+1245,Dept. of Psychology,Humanities
+1248,Dept. of Sociology,Humanities
+1249,Dept. of Public Administration,Humanities
+1251,Dept. of Economics,Business Studies
+1253,Dept. of Development Studies,Business Studies
+1258,Dept. of Public Administration,Humanities
+1259,Dept. of Public Administration,Humanities
+1260,Dept. of International Relation,Science
+1262,Dept. of Political Science,Science
+1263,Dept. of Public Administration,Humanities
+1264,Dept. of Sociology,Humanities
+1266,Dept. of Public Administration,Humanities
+1267,Dept. of Public Administration,Humanities
+1268,Dept. of Political Science,Science
+1269,Dept. of Communication & Journalism,Humanities
+1270,Dept. of Sociology,Humanities
+1271,Dept. of Public Administration,Humanities
+1272,Dept. of Economics,Science
+1273,Dept. of Sociology,Humanities
+1280,Dept. of Development Studies,Humanities
+1283,Dept. of Sociology,Humanities
+1284,Dept. of Sociology,Science
+1289,Dept. of Economics,Business Studies
+1291,Dept. of International Relation,Science
+1292,Dept. of Economics,Science
+1296,Dept. of Economics,Business Studies
+1298,Dept. of Economics,Science
+1299,Dept. of Economics,Science
+1301,Dept. of Economics,Science
+1303,Dept. of Development Studies,Business Studies
+1319,Dept. of International Relation,Business Studies
+1321,Dept. of Economics,Business Studies
+1322,Dept. of Economics,Science
+1323,Dept. of Economics,Business Studies
+1324,Dept. of Economics,Business Studies
+1326,Dept. of Economics,Science
+1329,Dept. of Communication & Journalism,Humanities
+1330,Dept. of Sociology,Humanities
+1331,Dept. of Criminology & Police Science,Humanities
+1334,Dept. of Economics,Science
+1336,Dept. of Development Studies,Humanities
+1338,Dept. of Political Science,Science
+1339,Dept. of Communication & Journalism,Humanities
+1341,Dept. of Communication & Journalism,Humanities
+1342,Dept. of Economics,Science
+1344,Dept. of International Relation,Science
+1346,Dept. of Economics,Science
+1347,Dept. of International Relation,Science
+1348,Dept. of Development Studies,Humanities
+1350,Dept. of Economics,Business Studies
+1351,Dept. of International Relation,Science
+1353,Dept. of Economics,Science
+1354,Dept. of International Relation,Business Studies
+1355,Dept. of Economics,Science
+1356,Dept. of International Relation,Business Studies
+1359,Dept. of Sociology,Humanities
+1360,Dept. of Sociology,Humanities
+1361,Dept. of Sociology,Humanities
+1364,Dept. of Sociology,Science
+1365,Dept. of Communication & Journalism,Humanities
+1368,Dept. of Sociology,Humanities
+1369,Dept. of Communication & Journalism,Humanities
+1370,Dept. of International Relation,Science
+1371,Dept. of Sociology,Humanities
+1372,Dept. of Communication & Journalism,Humanities
+1373,Dept. of Communication & Journalism,Humanities
+1374,Dept. of Sociology,Humanities
+1376,Dept. of Communication & Journalism,Humanities
+1377,Dept. of Criminology & Police Science,Humanities
+1378,Dept. of Communication & Journalism,Humanities
+1379,Dept. of Sociology,Humanities
+1380,Dept. of Economics,Science
+1381,Dept. of Sociology,Humanities
+1382,Dept. of Communication & Journalism,Humanities
+1385,Dept. of Economics,Science
+1386,Dept. of Anthropology,Humanities
+1388,Dept. of Criminology & Police Science,Humanities
+1389,Dept. of Communication & Journalism,Humanities
+1390,Dept. of Sociology,Humanities
+1391,Dept. of Sociology,Humanities
+1392,Dept. of Psychology,Humanities
+1394,Dept. of Sociology,Humanities
+1395,Dept. of Sociology,Humanities
+1396,Dept. of Psychology,Humanities
+1398,Dept. of Sociology,Humanities
+1399,Dept. of Criminology & Police Science,Humanities
+1400,Dept. of Sociology,Humanities
+1401,Dept. of Economics,Business Studies
+1403,Dept. of Communication & Journalism,Humanities
+1404,Dept. of International Relation,Business Studies
+1405,Dept. of Sociology,Humanities
+1406,Dept. of Sociology,Humanities
+1407,Dept. of Economics,Science
+1411,Dept. of Communication & Journalism,Humanities
+1412,Dept. of International Relation,Business Studies
+1413,Dept. of Economics,Science
+1416,Dept. of Economics,Science
+1420,Dept. of International Relation,Business Studies
+1421,Dept. of Geography and Environmental Studies,Humanities
+1423,Dept. of Sociology,Humanities
+1425,Dept. of Sociology,Humanities
+1426,Dept. of Communication & Journalism,Humanities
+1427,Dept. of Political Science,Science
+1429,Dept. of Communication & Journalism,Humanities
+1430,Dept. of Communication & Journalism,Humanities
+1431,Dept. of Communication & Journalism,Humanities
+1432,Dept. of Communication & Journalism,Humanities
+1435,Dept. of Sociology,Humanities
+1436,Dept. of Sociology,Humanities
+1437,Dept. of Communication & Journalism,Humanities
+1438,Dept. of Sociology,Humanities
+1439,Dept. of International Relation,Business Studies
+1440,Dept. of Communication & Journalism,Science
+1441,Dept. of Sociology,Humanities
+1442,Dept. of Sociology,Humanities
+1443,Dept. of Communication & Journalism,Humanities
+1444,Dept. of Sociology,Humanities
+1446,Dept. of Sociology,Humanities
+1447,Dept. of Sociology,Humanities
+1448,Dept. of Sociology,Humanities
+1449,Dept. of International Relation,Science
+1450,Dept. of Sociology,Humanities
+1451,Dept. of Sociology,Humanities
+1452,Dept. of Geography and Environmental Studies,Humanities
+1453,Dept. of Sociology,Humanities
+1454,Dept. of Sociology,Humanities
+1455,Dept. of Anthropology,Humanities
+1458,Dept. of International Relation,Science
+1459,Dept. of Geography and Environmental Studies,Humanities
+1460,Dept. of Psychology,Humanities
+1461,Dept. of Psychology,Humanities
+1463,Dept. of Public Administration,Science
+1464,Dept. of Psychology,Humanities
+1465,Dept. of Anthropology,Humanities
+1466,Dept. of Anthropology,Humanities
+1468,Dept. of International Relation,Science
+1469,Dept. of Anthropology,Humanities
+1471,Dept. of Geography and Environmental Studies,Humanities
+1473,Dept. of Anthropology,Humanities
+1474,Dept. of Public Administration,Science
+1475,Dept. of Anthropology,Humanities
+1476,Dept. of Anthropology,Humanities
+1477,Dept. of Anthropology,Humanities
+1480,Dept. of Development Studies,Science
+1481,Dept. of International Relation,Business Studies
+1482,Dept. of Anthropology,Humanities
+1483,Dept. of Geography and Environmental Studies,Humanities
+1484,Dept. of International Relation,Business Studies
+1485,Dept. of Psychology,Humanities
+1486,Dept. of Psychology,Humanities
+1487,Dept. of Geography and Environmental Studies,Humanities
+1488,Dept. of Anthropology,Humanities
+1489,Dept. of Public Administration,Science
+1490,Dept. of Political Science,Science
+1491,Dept. of Geography and Environmental Studies,Humanities
+1492,Dept. of Psychology,Humanities
+1493,Dept. of Political Science,Science
+1494,Dept. of Anthropology,Humanities
+1495,Dept. of Anthropology,Humanities
+1499,Dept. of International Relation,Business Studies
+1500,Dept. of Anthropology,Humanities
+1501,Dept. of Psychology,Humanities
+1503,Dept. of Anthropology,Humanities
+1504,Dept. of Anthropology,Humanities
+1506,Dept. of Sociology,Science
+1507,Dept. of Public Administration,Business Studies
+1508,Dept. of Anthropology,Humanities
+1510,Dept. of International Relation,Business Studies
+1511,Dept. of Anthropology,Humanities
+1513,Dept. of Anthropology,Humanities
+1514,Dept. of Geography and Environmental Studies,Humanities
+1515,Dept. of Anthropology,Humanities
+1516,Dept. of Geography and Environmental Studies,Humanities
+1517,Dept. of Sociology,Science
+1518,Dept. of Anthropology,Humanities
+1519,Dept. of Communication & Journalism,Science
+1520,Dept. of Anthropology,Humanities
+1521,Dept. of Anthropology,Humanities
+1522,Dept. of Anthropology,Humanities
+1523,Dept. of Anthropology,Humanities
+1524,Dept. of Anthropology,Humanities
+1525,Dept. of Development Studies,Science
+1527,Dept. of Communication & Journalism,Science
+1530,Dept. of Anthropology,Humanities
+1531,Dept. of Anthropology,Humanities
+1532,Dept. of Anthropology,Humanities
+1533,Dept. of Anthropology,Humanities
+1537,Dept. of Anthropology,Humanities
+1539,Dept. of Anthropology,Humanities
+1541,Dept. of Anthropology,Humanities
+1542,Dept. of Psychology,Humanities
+1543,Dept. of Anthropology,Humanities
+1545,Dept. of Public Administration,Business Studies
+1548,Dept. of Psychology,Humanities
+1550,Dept. of Psychology,Humanities
+1551,Dept. of Psychology,Humanities
+1554,Dept. of Sociology,Science
+1556,Dept. of Political Science,Business Studies
+1561,Dept. of Communication & Journalism,Science
+1566,Dept. of Public Administration,Science
+1582,Dept. of Public Administration,Business Studies
+1583,Dept. of Public Administration,Science
+1586,Dept. of Public Administration,Science
+1588,Dept. of Public Administration,Science
+1589,Dept. of Anthropology,Science
+1592,Dept. of Public Administration,Science
+1593,Dept. of Public Administration,Science
+1598,Dept. of Communication & Journalism,Science
+1624,Dept. of Political Science,Science
+1626,Dept. of Political Science,Science
+1629,Dept. of Public Administration,Science
+1632,Dept. of Political Science,Science
+1637,Dept. of Public Administration,Science
+1639,Dept. of Public Administration,Science
+1641,Dept. of Public Administration,Business Studies
+1651,Dept. of Political Science,Science
+1655,Dept. of Development Studies,Science
+1675,Dept. of Public Administration,Business Studies
+1676,Dept. of Criminology & Police Science,Business Studies
+1683,Dept. of Public Administration,Business Studies
+1688,Dept. of Anthropology,Science
+1692,Dept. of Criminology & Police Science,Science
+1696,Dept. of Public Administration,Science
+1703,Dept. of Political Science,Business Studies
+1716,Dept. of Public Administration,Science
+1725,Dept. of Public Administration,Science
+1728,Dept. of Public Administration,Science
+1734,Dept. of Development Studies,Science
+1752,Dept. of Communication & Journalism,Science
+1756,Dept. of Public Administration,Science
+1761,Dept. of Public Administration,Science
+1766,Dept. of Development Studies,Science
+1771,Dept. of Political Science,Science
+1773,Dept. of Development Studies,Science
+1777,Dept. of Public Administration,Science
+1782,Dept. of Public Administration,Science
+1783,Dept. of Public Administration,Science
+1789,Dept. of Criminology & Police Science,Science
+1798,Dept. of Public Administration,Science
+1808,Dept. of Public Administration,Science
+1816,Dept. of Political Science,Science
+1817,Dept. of Political Science,Science
+1818,Dept. of Sociology,Science
+1822,Dept. of Political Science,Business Studies
+1825,Dept. of Public Administration,Business Studies
+1826,Dept. of Communication & Journalism,Science
+1833,Dept. of Criminology & Police Science,Science
+1840,Dept. of Public Administration,Science
+1845,Dept. of Communication & Journalism,Science
+1846,Dept. of Development Studies,Science
+1852,Dept. of Communication & Journalism,Science
+1853,Dept. of Political Science,Science
+1858,Dept. of Political Science,Science
+1886,Dept. of Political Science,Science
+1896,Dept. of Development Studies,Business Studies
+1897,Dept. of Public Administration,Business Studies
+1898,Dept. of Public Administration,Science
+1903,Dept. of Communication & Journalism,Science
+1908,Dept. of Political Science,Science
+1913,Dept. of Public Administration,Science
+1924,Dept. of Communication & Journalism,Science
+1926,Dept. of Political Science,Business Studies
+1936,Dept. of Political Science,Science
+1940,Dept. of Development Studies,Science
+1943,Dept. of Public Administration,Science
+1944,Dept. of Public Administration,Science
+1946,Dept. of Public Administration,Science
+1947,Dept. of Political Science,Science
+1952,Dept. of Public Administration,Business Studies
+1976,Dept. of Political Science,Science
+1990,Dept. of Public Administration,Science
+1991,Dept. of Development Studies,Science
+1995,Dept. of Public Administration,Business Studies
+1996,Dept. of Political Science,Science
+1999,Dept. of Political Science,Science
+2000,Dept. of Criminology & Police Science,Science
+2001,Dept. of Communication & Journalism,Science
+2004,Dept. of Public Administration,Science
+2005,Dept. of Communication & Journalism,Science
+2011,Dept. of Communication & Journalism,Business Studies
+2022,Dept. of Development Studies,Science
+2040,Dept. of Development Studies,Science
+2047,Dept. of Political Science,Science
+2053,Dept. of Sociology,Science
+2054,Dept. of Political Science,Science
+2070,Dept. of Sociology,Science
+2089,Dept. of Public Administration,Science
+2091,Dept. of Public Administration,Business Studies
+2100,Dept. of Development Studies,Science
+2105,Dept. of Public Administration,Science
+2106,Dept. of Communication & Journalism,Science
+2107,Dept. of Political Science,Business Studies
+2110,Dept. of Political Science,Science
+2112,Dept. of Political Science,Science
+2127,Dept. of Public Administration,Business Studies
+2129,Dept. of Public Administration,Science
+2143,Dept. of Criminology & Police Science,Business Studies
+2147,Dept. of Public Administration,Science
+2148,Dept. of Political Science,Science
+2150,Dept. of Political Science,Science
+2153,Dept. of Development Studies,Business Studies
+2154,Dept. of Communication & Journalism,Science
+2155,Dept. of Public Administration,Business Studies
+2166,Dept. of Public Administration,Science
+2180,Dept. of Criminology & Police Science,Science
+2183,Dept. of Public Administration,Science
+2184,Dept. of Sociology,Science
+2185,Dept. of Public Administration,Science
+2186,Dept. of Public Administration,Science
+2188,Dept. of Public Administration,Business Studies
+2201,Dept. of Public Administration,Science
+2205,Dept. of Public Administration,Science
+2206,Dept. of Public Administration,Science
+2209,Dept. of Public Administration,Science
+2211,Dept. of Political Science,Business Studies
+2224,Dept. of Sociology,Science
+2230,Dept. of Communication & Journalism,Science
+2232,Dept. of Public Administration,Science
+2251,Dept. of Public Administration,Business Studies
+2255,Dept. of Political Science,Science
+2260,Dept. of Public Administration,Science
+2268,Dept. of Criminology & Police Science,Science
+2270,Dept. of Criminology & Police Science,Science
+2271,Dept. of Political Science,Business Studies
+2274,Dept. of Anthropology,Science
+2275,Dept. of Communication & Journalism,Science
+2280,Dept. of Communication & Journalism,Science
+2295,Dept. of Political Science,Science
+2303,Dept. of Political Science,Science
+2304,Dept. of Communication & Journalism,Science
+2305,Dept. of Political Science,Science
+2306,Dept. of Political Science,Science
+2307,Dept. of Political Science,Science
+2310,Dept. of Public Administration,Business Studies
+2311,Dept. of Communication & Journalism,Business Studies
+2318,Dept. of Political Science,Science
+2321,Dept. of Communication & Journalism,Science
+2325,Dept. of Political Science,Science
+2339,Dept. of Political Science,Business Studies
+2358,Dept. of Sociology,Science
+2359,Dept. of Criminology & Police Science,Science
+2360,Dept. of Political Science,Science
+2378,Dept. of Political Science,Science
+2379,Dept. of Political Science,Science
+2380,Dept. of Political Science,Science
+2390,Dept. of Political Science,Science
+2392,Dept. of Political Science,Science
+2401,Dept. of Political Science,Science
+2403,Dept. of Sociology,Science
+2405,Dept. of Sociology,Science
+2408,Dept. of Political Science,Science
+2412,Dept. of Political Science,Science
+2413,Dept. of Communication & Journalism,Science
+2415,Dept. of Political Science,Science
+2417,Dept. of Communication & Journalism,Science
+2420,Dept. of Anthropology,Science
+2433,Dept. of Communication & Journalism,Business Studies
+2437,Dept. of Political Science,Science
+2449,Dept. of Political Science,Science
+2455,Dept. of Communication & Journalism,Science
+2464,Dept. of Public Administration,Business Studies
+2465,Dept. of Political Science,Science
+2470,Dept. of Sociology,Science
+2471,Dept. of Sociology,Science
+2474,Dept. of Sociology,Science
+2481,Dept. of Development Studies,Business Studies
+2484,Dept. of Sociology,Business Studies
+2487,Dept. of Development Studies,Business Studies
+2498,Dept. of Anthropology,Science
+2500,Dept. of Anthropology,Science
+2506,Dept. of Sociology,Science
+2507,Dept. of Communication & Journalism,Science
+2509,Dept. of Sociology,Science
+2517,Dept. of Sociology,Science
+2520,Dept. of Political Science,Business Studies
+2523,Dept. of Sociology,Science
+2538,Dept. of Sociology,Science
+2544,Dept. of Sociology,Science
+2549,Dept. of Sociology,Science
+2570,Dept. of Anthropology,Science
+2572,Dept. of Sociology,Science
+2576,Dept. of Public Administration,Business Studies
+2578,Dept. of Sociology,Business Studies
+2586,Dept. of Public Administration,Business Studies
+2593,Dept. of Sociology,Science
+2600,Dept. of Sociology,Science
+2601,Dept. of Sociology,Science
+2603,Dept. of Sociology,Science
+2614,Dept. of Sociology,Science
+2616,Dept. of Public Administration,Business Studies
+2622,Dept. of Sociology,Science
+2623,Dept. of Sociology,Science
+2625,Dept. of Sociology,Business Studies
+2635,Dept. of Sociology,Science
+2640,Dept. of Sociology,Science
+2644,Dept. of Public Administration,Business Studies
+2646,Dept. of Sociology,Science
+2652,Dept. of Political Science,Business Studies
+2653,Dept. of Criminology & Police Science,Business Studies
+2655,Dept. of Sociology,Science
+2656,Dept. of Sociology,Science
+2662,Dept. of Sociology,Science
+2671,Dept. of Sociology,Science
+2676,Dept. of Sociology,Science
+2687,Dept. of Sociology,Science
+2688,Dept. of Sociology,Science
+2689,Dept. of Sociology,Science
+2690,Dept. of Sociology,Science
+2691,Dept. of Anthropology,Science
+2693,Dept. of Sociology,Science
+2697,Dept. of Sociology,Science
+2699,Dept. of Anthropology,Science
+2702,Dept. of Anthropology,Science
+2703,Dept. of Sociology,Science
+2704,Dept. of Sociology,Science
+2705,Dept. of Anthropology,Science
+2706,Dept. of Communication & Journalism,Business Studies
+2707,Dept. of Sociology,Science
+2712,Dept. of Sociology,Science
+2720,Dept. of Anthropology,Science
+2724,Dept. of Sociology,Science
+2725,Dept. of Sociology,Science
+2730,Dept. of Sociology,Business Studies
+2731,Dept. of Anthropology,Science
+2732,Dept. of Sociology,Business Studies
+2734,Dept. of Anthropology,Science
+2735,Dept. of Anthropology,Science
+2736,Dept. of Sociology,Business Studies
+2741,Dept. of Anthropology,Science
+2742,Dept. of Political Science,Business Studies
+2744,Dept. of Anthropology,Science
+2747,Dept. of Anthropology,Science
+2755,Dept. of Anthropology,Science
+2763,Dept. of Anthropology,Science
+2770,Dept. of Anthropology,Science
+2772,Dept. of Anthropology,Science
+2773,Dept. of Anthropology,Science
+2783,Dept. of Anthropology,Science
+2785,Dept. of Anthropology,Science
+2794,Dept. of Anthropology,Science
+2795,Dept. of Anthropology,Science
+2796,Dept. of Anthropology,Science
+2797,Dept. of Anthropology,Science
+2798,Dept. of Anthropology,Science
+2800,Dept. of Anthropology,Science
+2802,Dept. of Anthropology,Science
+2803,Dept. of Anthropology,Science
+2806,Dept. of Anthropology,Science
+2809,Dept. of Political Science,Business Studies
+2848,Dept. of Communication & Journalism,Business Studies
+2866,Dept. of Political Science,Business Studies
+2883,Dept. of Sociology,Business Studies
+2934,Dept. of Communication & Journalism,Business Studies
+2941,Dept. of Political Science,Business Studies
+2993,Dept. of Sociology,Business Studies
+3031,Dept. of Political Science,Business Studies
+3068,Dept. of Communication & Journalism,Business Studies
+3085,Dept. of Political Science,Business Studies
+3102,Dept. of Sociology,Business Studies
+3108,Dept. of Sociology,Business Studies
+3109,Dept. of Communication & Journalism,Business Studies
+3118,Dept. of Political Science,Business Studies
+3152,Dept. of Political Science,Business Studies
+3168,Dept. of Political Science,Business Studies
+3224,Dept. of Communication & Journalism,Business Studies
+3226,Dept. of Communication & Journalism,Business Studies
+3232,Dept. of Sociology,Business Studies
+3246,Dept. of Political Science,Business Studies
+3268,Dept. of Communication & Journalism,Business Studies
+3272,Dept. of Political Science,Business Studies
+3283,Dept. of Political Science,Business Studies
+3295,Dept. of Political Science,Business Studies
+3302,Dept. of Sociology,Business Studies
+3308,Dept. of Sociology,Business Studies
+3364,Dept. of Sociology,Business Studies
+3372,Dept. of Political Science,Business Studies
+3415,Dept. of Criminology & Police Science,Business Studies
+3420,Dept. of Sociology,Business Studies
+3488,Dept. of Sociology,Business Studies
+3498,Dept. of Political Science,Business Studies
+3542,Dept. of Political Science,Business Studies
+3543,Dept. of Sociology,Business Studies
+3552,Dept. of Criminology & Police Science,Business Studies
+3566,Dept. of Anthropology,Business Studies
+3578,Dept. of Sociology,Business Studies
+3583,Dept. of Sociology,Business Studies
+3585,Dept. of Anthropology,Business Studies
+3587,Dept. of Sociology,Business Studies
+3588,Dept. of Anthropology,Business Studies
+3592,Dept. of Sociology,Business Studies
+3607,Dept. of Sociology,Business Studies
+3613,Dept. of Sociology,Business Studies
+3624,Dept. of Sociology,Business Studies
+3673,Dept. of Sociology,Business Studies
+3675,Dept. of Sociology,Business Studies
+3676,Dept. of Anthropology,Business Studies
+3678,Dept. of Anthropology,Business Studies
+3680,Dept. of Anthropology,Business Studies
+3683,Dept. of Anthropology,Business Studies
+3684,Dept. of Anthropology,Business Studies
+3703,Dept. of Anthropology,Business Studies
+3708,Dept. of Anthropology,Business Studies
+3711,Dept. of Anthropology,Business Studies
+3713,Dept. of Anthropology,Business Studies
+3718,Dept. of Anthropology,Business Studies
+3729,Dept. of Anthropology,Business Studies
+3736,Dept. of Anthropology,Business Studies
+3740,Dept. of Anthropology,Business Studies
+3745,Dept. of Anthropology,Business Studies

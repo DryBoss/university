@@ -1,0 +1,483 @@
+Merit,Department
+1,Dept. of Finance
+2,Dept. of Finance
+3,Dept. of Finance
+4,Dept. of Finance
+6,Dept. of Finance
+9,Dept. of Finance
+10,Dept. of Accounting
+13,Dept. of Finance
+14,Dept. of Finance
+15,Dept. of Finance
+16,Dept. of Finance
+18,Dept. of Finance
+19,Dept. of Finance
+21,Dept. of Finance
+22,Dept. of Finance
+23,Dept. of Finance
+24,Dept. of Accounting
+25,Dept. of Finance
+27,Dept. of Finance
+28,Dept. of Finance
+30,Dept. of Finance
+31,Dept. of Finance
+32,Dept. of Finance
+33,Dept. of Finance
+34,Dept. of Finance
+35,Dept. of Finance
+37,Dept. of Finance
+38,Dept. of Finance
+39,Dept. of Finance
+40,Dept. of Finance
+42,Dept. of Finance
+45,Dept. of Finance
+46,Dept. of Accounting
+47,Dept. of Finance
+48,Dept. of Finance
+49,Dept. of Finance
+51,Dept. of Finance
+52,Dept. of Accounting
+56,Dept. of Finance
+57,Dept. of Accounting
+59,Dept. of Accounting
+60,Dept. of Finance
+61,Dept. of Finance
+63,Dept. of Finance
+64,Dept. of Finance
+66,Dept. of Finance
+67,Dept. of Finance
+70,Dept. of Finance
+72,Dept. of Finance
+73,Dept. of Finance
+74,Dept. of Finance
+76,Dept. of Accounting
+79,Dept. of Finance
+80,Dept. of Finance
+81,Dept. of Finance
+82,Dept. of Finance
+85,Dept. of Finance
+86,Dept. of Accounting
+87,Dept. of Accounting
+88,Dept. of Finance
+89,Dept. of Finance
+92,Dept. of Accounting
+93,Dept. of Finance
+94,Dept. of Accounting
+95,Dept. of Accounting
+96,Dept. of Accounting
+99,Dept. of Accounting
+103,Dept. of Finance
+104,Dept. of Finance
+105,Dept. of Finance
+106,Dept. of Finance
+107,Dept. of Finance
+108,Dept. of Finance
+110,Dept. of Finance
+111,Dept. of Finance
+112,Dept. of Accounting
+113,Dept. of Finance
+114,Dept. of Finance
+115,Dept. of Finance
+117,Dept. of Finance
+118,Dept. of Finance
+119,Dept. of Finance
+120,Dept. of Finance
+121,Dept. of Finance
+122,Dept. of Finance
+124,Dept. of Finance
+125,Dept. of Accounting
+127,Dept. of Finance
+128,Dept. of Finance
+132,Dept. of Accounting
+134,Dept. of Finance
+135,Dept. of Finance
+136,Dept. of Accounting
+137,Dept. of Accounting
+138,Dept. of Finance
+139,Dept. of Accounting
+140,Dept. of Finance
+141,Dept. of Finance
+142,Dept. of Finance
+144,Dept. of Finance
+147,Dept. of Finance
+148,Dept. of Accounting
+149,Dept. of Finance
+150,Dept. of Finance
+152,Dept. of Accounting
+153,Dept. of Finance
+154,Dept. of Finance
+158,Dept. of Accounting
+159,Dept. of Finance
+160,Dept. of Finance
+161,Dept. of Finance
+162,Dept. of Accounting
+163,Dept. of Finance
+165,Dept. of Finance
+167,Dept. of Finance
+169,Dept. of Finance
+171,Dept. of Finance
+172,Dept. of Accounting
+173,Dept. of Finance
+174,Dept. of Accounting
+178,Dept. of Finance
+179,Dept. of Accounting
+180,Dept. of Accounting
+181,Dept. of Marketing
+184,Dept. of Accounting
+185,Dept. of Accounting
+186,Dept. of Accounting
+188,Dept. of Accounting
+189,Dept. of Accounting
+190,Dept. of Accounting
+191,Dept. of Accounting
+192,Dept. of Accounting
+194,Dept. of Accounting
+195,Dept. of Accounting
+199,Dept. of Accounting
+200,Dept. of Accounting
+201,Dept. of Accounting
+202,Dept. of Marketing
+203,Dept. of Accounting
+204,Dept. of Accounting
+205,Dept. of Accounting
+206,Dept. of Accounting
+207,Dept. of Accounting
+208,Dept. of Accounting
+209,Dept. of Accounting
+210,Dept. of Accounting
+211,Dept. of Accounting
+212,Dept. of Accounting
+213,Dept. of Accounting
+218,Dept. of Accounting
+219,Dept. of Accounting
+220,Dept. of Accounting
+221,Dept. of Accounting
+223,Dept. of Accounting
+224,Dept. of Accounting
+227,Dept. of Accounting
+228,Dept. of Accounting
+229,Dept. of Accounting
+231,Dept. of Accounting
+233,Dept. of Accounting
+234,Dept. of Accounting
+235,Dept. of Accounting
+236,Dept. of Accounting
+237,Dept. of Accounting
+239,Dept. of Accounting
+240,Dept. of Accounting
+241,Dept. of Accounting
+242,Dept. of Accounting
+243,Dept. of Management
+245,Dept. of Management
+246,Dept. of Marketing
+250,Dept. of Management
+251,Dept. of Accounting
+252,Dept. of Accounting
+253,Dept. of Management
+254,Dept. of Management
+255,Dept. of Accounting
+256,Dept. of Marketing
+257,Dept. of Accounting
+258,Dept. of Accounting
+260,Dept. of Accounting
+261,Dept. of Accounting
+262,Dept. of Accounting
+263,Dept. of Accounting
+264,Dept. of Management
+265,Dept. of Accounting
+266,Dept. of Accounting
+267,Dept. of Accounting
+268,Dept. of Accounting
+269,Dept. of Accounting
+271,Dept. of Accounting
+272,Dept. of Management
+273,Dept. of Accounting
+274,Dept. of Marketing
+275,Dept. of Management
+277,Dept. of Marketing
+278,Dept. of Marketing
+279,Dept. of Marketing
+280,Dept. of Human Resource Management
+281,Dept. of Marketing
+283,Dept. of Management
+285,Dept. of Management
+288,Dept. of Marketing
+289,Dept. of Marketing
+290,Dept. of Marketing
+291,Dept. of Management
+294,Dept. of Marketing
+295,Dept. of Marketing
+296,Dept. of Marketing
+297,Dept. of Marketing
+299,Dept. of Management
+300,Dept. of Marketing
+302,Dept. of Marketing
+304,Dept. of Marketing
+305,Dept. of Human Resource Management
+306,Dept. of Marketing
+307,Dept. of Marketing
+308,Dept. of Management
+309,Dept. of Management
+311,Dept. of Management
+312,Dept. of Management
+313,Dept. of Marketing
+314,Dept. of Human Resource Management
+315,Dept. of Marketing
+316,Dept. of Marketing
+317,Dept. of Management
+319,Dept. of Management
+321,Dept. of Marketing
+322,Dept. of Marketing
+323,Dept. of Marketing
+324,Dept. of Management
+326,Dept. of Management
+327,Dept. of Management
+328,Dept. of Management
+331,Dept. of Marketing
+332,Dept. of Management
+333,Dept. of Management
+334,Dept. of Management
+335,Dept. of Management
+336,Dept. of Marketing
+337,Dept. of Marketing
+338,Dept. of Marketing
+339,Dept. of Human Resource Management
+340,Dept. of Management
+342,Dept. of Management
+343,Dept. of Management
+344,Dept. of Marketing
+345,Dept. of Management
+346,Dept. of Human Resource Management
+347,Dept. of Management
+348,Dept. of Marketing
+350,Dept. of Management
+352,Dept. of Management
+353,Dept. of Marketing
+354,Dept. of Management
+355,Dept. of Management
+356,Dept. of Management
+357,Dept. of Management
+358,Dept. of Management
+359,Dept. of Marketing
+360,Dept. of Marketing
+361,Dept. of Human Resource Management
+362,Dept. of Management
+363,Dept. of Marketing
+364,Dept. of Marketing
+365,Dept. of Human Resource Management
+366,Dept. of Management
+367,Dept. of Management
+368,Dept. of Marketing
+370,Dept. of Marketing
+371,Dept. of Human Resource Management
+372,Dept. of Management
+373,Dept. of Management
+374,Dept. of Management
+375,Dept. of Human Resource Management
+376,Dept. of Management
+377,Dept. of Management
+378,Dept. of Management
+379,Dept. of Management
+380,Dept. of Marketing
+381,Dept. of Marketing
+383,Dept. of Marketing
+384,Dept. of Marketing
+385,Dept. of Marketing
+386,Dept. of Human Resource Management
+387,Dept. of Human Resource Management
+388,Dept. of Management
+389,Dept. of Management
+390,Dept. of Human Resource Management
+391,Dept. of Human Resource Management
+392,Dept. of Marketing
+393,Dept. of Management
+394,Dept. of Marketing
+395,Dept. of Marketing
+396,Dept. of Marketing
+397,Dept. of Human Resource Management
+399,Dept. of Human Resource Management
+400,Dept. of Marketing
+401,Dept. of Marketing
+402,Dept. of Human Resource Management
+403,Dept. of Human Resource Management
+404,Dept. of Marketing
+405,Dept. of Human Resource Management
+406,Dept. of Human Resource Management
+407,Dept. of Human Resource Management
+408,Dept. of Human Resource Management
+409,Dept. of Marketing
+410,Dept. of Human Resource Management
+411,Dept. of Human Resource Management
+412,Dept. of Human Resource Management
+413,Dept. of Human Resource Management
+414,Dept. of Human Resource Management
+415,Dept. of Human Resource Management
+416,Dept. of Human Resource Management
+417,Dept. of Human Resource Management
+418,Dept. of Human Resource Management
+420,Dept. of Human Resource Management
+421,Dept. of Human Resource Management
+422,Dept. of Human Resource Management
+423,Dept. of Human Resource Management
+424,Dept. of Human Resource Management
+425,Dept. of Human Resource Management
+427,Dept. of Human Resource Management
+428,Dept. of Banking and Insurance
+429,Dept. of Human Resource Management
+430,Dept. of Human Resource Management
+431,Dept. of Human Resource Management
+432,Dept. of Human Resource Management
+433,Dept. of Human Resource Management
+434,Dept. of Human Resource Management
+435,Dept. of Human Resource Management
+436,Dept. of Human Resource Management
+437,Dept. of Human Resource Management
+438,Dept. of Human Resource Management
+440,Dept. of Human Resource Management
+441,Dept. of Human Resource Management
+442,Dept. of Human Resource Management
+443,Dept. of Human Resource Management
+444,Dept. of Human Resource Management
+445,Dept. of Human Resource Management
+447,Dept. of Human Resource Management
+448,Dept. of Human Resource Management
+449,Dept. of Human Resource Management
+450,Dept. of Human Resource Management
+451,Dept. of Human Resource Management
+452,Dept. of Human Resource Management
+453,Dept. of Banking and Insurance
+454,Dept. of Human Resource Management
+455,Dept. of Human Resource Management
+456,Dept. of Human Resource Management
+457,Dept. of Human Resource Management
+458,Dept. of Banking and Insurance
+459,Dept. of Human Resource Management
+461,Dept. of Human Resource Management
+462,Dept. of Human Resource Management
+463,Dept. of Human Resource Management
+465,Dept. of Human Resource Management
+466,Dept. of Banking and Insurance
+467,Dept. of Human Resource Management
+468,Dept. of Human Resource Management
+469,Dept. of Banking and Insurance
+470,Dept. of Banking and Insurance
+471,Dept. of Banking and Insurance
+472,Dept. of Banking and Insurance
+473,Dept. of Banking and Insurance
+474,Dept. of Banking and Insurance
+475,Dept. of Banking and Insurance
+476,Dept. of Banking and Insurance
+477,Dept. of Banking and Insurance
+478,Dept. of Banking and Insurance
+479,Dept. of Banking and Insurance
+481,Dept. of Banking and Insurance
+482,Dept. of Banking and Insurance
+483,Dept. of Banking and Insurance
+484,Dept. of Banking and Insurance
+485,Dept. of Banking and Insurance
+486,Dept. of Banking and Insurance
+487,Dept. of Banking and Insurance
+488,Dept. of Banking and Insurance
+489,Dept. of Banking and Insurance
+491,Dept. of Banking and Insurance
+492,Dept. of Banking and Insurance
+493,Dept. of Banking and Insurance
+494,Dept. of Banking and Insurance
+495,Dept. of Banking and Insurance
+496,Dept. of Banking and Insurance
+497,Dept. of Banking and Insurance
+498,Dept. of Banking and Insurance
+500,Dept. of Banking and Insurance
+502,Dept. of Banking and Insurance
+503,Dept. of Banking and Insurance
+504,Dept. of Banking and Insurance
+505,Dept. of Banking and Insurance
+506,Dept. of Banking and Insurance
+507,Dept. of Banking and Insurance
+508,Dept. of Banking and Insurance
+509,Dept. of Banking and Insurance
+510,Dept. of Banking and Insurance
+511,Dept. of Banking and Insurance
+512,Dept. of Banking and Insurance
+513,Dept. of Banking and Insurance
+514,Dept. of Banking and Insurance
+515,Dept. of Banking and Insurance
+516,Dept. of Banking and Insurance
+517,Dept. of Banking and Insurance
+518,Dept. of Banking and Insurance
+519,Dept. of Banking and Insurance
+520,Dept. of Banking and Insurance
+521,Dept. of Banking and Insurance
+522,Dept. of Banking and Insurance
+524,Dept. of Banking and Insurance
+525,Dept. of Banking and Insurance
+526,Dept. of Banking and Insurance
+527,Dept. of Banking and Insurance
+528,Dept. of Banking and Insurance
+529,Dept. of Banking and Insurance
+530,Dept. of Banking and Insurance
+531,Dept. of Banking and Insurance
+532,Dept. of Banking and Insurance
+533,Dept. of Banking and Insurance
+534,Dept. of Banking and Insurance
+535,Dept. of Banking and Insurance
+536,Dept. of Banking and Insurance
+537,Dept. of Banking and Insurance
+538,Dept. of Banking and Insurance
+539,Dept. of Banking and Insurance
+541,Dept. of Banking and Insurance
+542,Dept. of Banking and Insurance
+543,Dept. of Banking and Insurance
+544,Dept. of Banking and Insurance
+545,Dept. of Banking and Insurance
+546,Dept. of Banking and Insurance
+547,Dept. of Banking and Insurance
+548,Dept. of Banking and Insurance
+549,Dept. of Banking and Insurance
+550,Dept. of Banking and Insurance
+551,Dept. of Banking and Insurance
+552,Dept. of Banking and Insurance
+553,Dept. of Banking and Insurance
+554,Dept. of Banking and Insurance
+555,Dept. of Banking and Insurance
+556,Dept. of Banking and Insurance
+557,Dept. of Banking and Insurance
+558,Dept. of Banking and Insurance
+559,Dept. of Banking and Insurance
+561,Dept. of Banking and Insurance
+562,Dept. of Banking and Insurance
+563,Dept. of Banking and Insurance
+564,Dept. of Banking and Insurance
+565,Dept. of Banking and Insurance
+566,Dept. of Banking and Insurance
+567,Dept. of Banking and Insurance
+568,Dept. of Banking and Insurance
+569,Dept. of Banking and Insurance
+570,Dept. of Banking and Insurance
+571,Dept. of Banking and Insurance
+572,Dept. of Banking and Insurance
+573,Dept. of Banking and Insurance
+574,Dept. of Banking and Insurance
+575,Dept. of Banking and Insurance
+576,Dept. of Banking and Insurance
+577,Dept. of Banking and Insurance
+578,Dept. of Banking and Insurance
+579,Dept. of Banking and Insurance
+580,Dept. of Banking and Insurance
+581,Dept. of Banking and Insurance
+582,Dept. of Banking and Insurance
+583,Dept. of Banking and Insurance
+584,Dept. of Banking and Insurance
+585,Dept. of Banking and Insurance
+586,Dept. of Banking and Insurance
+587,Dept. of Banking and Insurance
+588,Dept. of Banking and Insurance
+589,Dept. of Banking and Insurance
+590,Dept. of Banking and Insurance
+591,Dept. of Banking and Insurance
+592,Dept. of Banking and Insurance
+593,Dept. of Banking and Insurance
+594,Dept. of Banking and Insurance
+595,Dept. of Banking and Insurance
+596,Dept. of Banking and Insurance
+597,Dept. of Banking and Insurance

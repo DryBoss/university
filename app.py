@@ -1,106 +1,162 @@
 import streamlit as st
 import pandas as pd
-import networkx as nx
-import plotly.graph_objects as go
 import os
 
-# Set Page Config for Mobile/Wide screens
+# Set Page Config
 st.set_page_config(page_title="Academic Network Research", layout="wide")
 
 st.title("🎓 Interdisciplinary Academic Network Analysis")
-st.markdown("Exploring the popularity and connectivity of university departments.")
 
-# Helper to find files in the repo structure
-def get_file_path(filename, subfolder=""):
-    base_path = os.path.dirname(__file__)
-    return os.path.join(base_path, subfolder, filename)
+# --- 1. CONFIGURATION & MAPPING ---
+DEPT_MAPPER = {
+    "ACCE": "Applied Chemistry and Chemical Engineering",
+    "CSE": "Computer Science and Engineering",
+    "EEE": "Electrical and Electronic Engineering",
+    "GEB": "Genetic Engineering and Biotechnology",
+    "HRM": "Human Resource Management",
+    "IER": "Institute of Education and Research",
+    "LAW": "Law",
+    "Language & Linguistics": "Linguistics",
+    "Pali": "Pali and Buddhist Studies"
+}
 
-# 1. Load Data
-@st.cache_data
-def load_data():
-    # Try multiple common paths to be safe
-    possible_paths = [
-        get_file_path("related-course.csv", "data"),
-        get_file_path("related-course.csv"),
-        "related-course.csv"
+# --- 2. FILE HELPER ---
+def get_file_path(filename):
+    search_paths = [
+        filename,
+        os.path.join("data", filename),
+        os.path.join("data", "subject-choice", filename),
+        os.path.join("..", "data", "subject-choice", filename)
     ]
+    for p in search_paths:
+        if os.path.exists(p):
+            return p
+    return None
+
+# --- 3. DATA LOADING ---
+@st.cache_data
+def load_all_data():
+    df_net = pd.DataFrame()
+    net_path = get_file_path("related-course.csv")
+    if net_path:
+        df_net = pd.read_csv(net_path)
+        df_net.columns = df_net.columns.str.strip()
+        df_net = df_net.dropna(subset=['Department', 'Related Dept'])
+        df_net['Department'] = df_net['Department'].astype(str).str.strip()
+        df_net['Related Dept'] = df_net['Related Dept'].astype(str).str.strip()
+
+    all_prestige = []
+    units, years = ['a', 'b', 'c', 'd'], ['2122', '2223', '2324']
+    for u in units:
+        for y in years:
+            fname = f"{y}{u}.csv"
+            path = get_file_path(fname)
+            if path:
+                try:
+                    tmp = pd.read_csv(path)
+                    tmp.columns = tmp.columns.str.strip()
+                    if 'Department' in tmp.columns:
+                        tmp.rename(columns={'Department': 'Subject'}, inplace=True)
+                    if 'Subject' in tmp.columns and 'Merit' in tmp.columns:
+                        tmp['Unit'] = u.upper()
+                        all_prestige.append(tmp[['Subject', 'Merit', 'Unit']])
+                except: continue
     
-    for path in possible_paths:
-        if os.path.exists(path):
-            df = pd.read_csv(path)
-            df = df.dropna(subset=['Department', 'Related Dept'])
-            # Clean strings to prevent duplicate nodes
-            df['Department'] = df['Department'].astype(str).str.strip()
-            df['Related Dept'] = df['Related Dept'].astype(str).str.strip()
-            return df
-    
-    st.error("Data file 'related-course.csv' not found. Please check your GitHub folder structure.")
-    return pd.DataFrame()
+    df_pres = pd.concat(all_prestige, ignore_index=True) if all_prestige else pd.DataFrame()
+    if not df_pres.empty:
+        df_pres['Merit'] = pd.to_numeric(df_pres['Merit'], errors='coerce')
+        df_pres = df_pres.dropna(subset=['Subject', 'Merit'])
+        df_pres['Clean_Subject'] = df_pres['Subject'].astype(str).str.strip()
 
-df = load_data()
+    return df_net, df_pres
 
-if not df.empty:
-    # 2. Sidebar Filters
-    st.sidebar.header("Filter Connections")
-    min_weight = st.sidebar.slider("Minimum Connection Strength (Number of Courses)", 1, 10, 1)
+df_net, df_pres = load_all_data()
 
-    # Group data and filter by slider
-    links = df.groupby(['Department', 'Related Dept']).size().reset_index(name='value')
-    links = links[links['value'] >= min_weight]
-
-    # 3. Main Dashboard Tabs
-    tab1, tab2, tab3 = st.tabs(["🌐 Network View", "🌊 Knowledge Flow", "📊 Department Stats"])
+# --- 4. UI LOGIC ---
+if df_net.empty:
+    st.error("🚨 'related-course.csv' not found.")
+else:
+    tab1, tab2 = st.tabs(["🔍 Department Recommender", "🌐 Network View"])
 
     with tab1:
-        st.header("Interdisciplinary Chord Diagram")
-        chord_path = get_file_path("academic_chord_weighted.html")
-        
-        if os.path.exists(chord_path):
-            with open(chord_path, 'r', encoding='utf-8') as f:
-                html_data = f.read()
-            st.components.v1.html(html_data, height=800, scrolling=True)
-        else:
-            st.warning("Chord HTML file not found. Run your visualization script first.")
+        st.header("🔍 Department Recommender")
+        dept_list = sorted(df_net['Department'].unique())
+        selected_dept = st.selectbox("Search for a Department:", dept_list)
+
+        if selected_dept:
+            # A. NETWORK ANALYSIS
+            recs_all = df_net[df_net['Department'] == selected_dept]
+            total_raw_links = recs_all['Related Dept'].nunique()
+            
+            # Visual Logic: Display only connections with 3+ courses
+            rec_stats = recs_all.groupby('Related Dept').size().reset_index(name='count')
+            rec_stats_visual = rec_stats[rec_stats['count'] >= 3].sort_values('count', ascending=False)
+            
+            prestige_score = "N/A"
+            selected_rank_range = "Rank N/A"
+            
+            # B. MERIT ANALYSIS for Selected Dept
+            if not df_pres.empty:
+                search_term = DEPT_MAPPER.get(selected_dept, selected_dept)
+                dept_data = df_pres[df_pres['Clean_Subject'].str.contains(search_term, case=False, na=False)]
+                
+                if not dept_data.empty:
+                    g_max = df_pres['Merit'].max()
+                    dept_merit = dept_data['Merit'].median()
+                    if pd.notna(dept_merit):
+                        score = ((g_max - dept_merit) / g_max) * 100
+                        prestige_score = f"{score:.1f}/100"
+                    
+                    # Calculate Selected Dept Rank Range
+                    s_min = int(dept_data['Merit'].min())
+                    s_max = int(dept_data['Merit'].max())
+                    selected_rank_range = f"{s_min} - {s_max}"
+
+            # C. DISPLAY METRICS
+            c1, c2, c3 = st.columns(3)
+            c1.metric("Prestige Score", prestige_score)
+            c2.metric("Total Connections", f"{total_raw_links} Depts")
+            c3.metric("Merit Range", selected_rank_range, help="The historical merit range for this department.")
+
+            st.divider()
+
+            # D. FULL WIDTH CURRICULUM LINKS WITH MERIT RANGES
+            st.subheader("🎯 Curriculum Links")
+            
+            if not rec_stats_visual.empty:
+                FIXED_MAX = 10 
+                
+                for _, row in rec_stats_visual.iterrows():
+                    related_name = row['Related Dept']
+                    progress_val = min(1.0, row['count'] / FIXED_MAX)
+                    
+                    # Fetch Merit Range for the Related Department
+                    rank_range = "Rank N/A"
+                    if not df_pres.empty:
+                        rel_search = DEPT_MAPPER.get(related_name, related_name)
+                        rel_data = df_pres[df_pres['Clean_Subject'].str.contains(rel_search, case=False, na=False)]
+                        
+                        if not rel_data.empty:
+                            min_rank = int(rel_data['Merit'].min())
+                            max_rank = int(rel_data['Merit'].max())
+                            rank_range = f"Merit: {min_rank} - {max_rank}"
+                    
+                    # Layout
+                    with st.container():
+                        col_name, col_rank, col_bar = st.columns([2, 1, 3])
+                        with col_name:
+                            st.write(f"**{related_name}**")
+                        with col_rank:
+                            st.write(f"`{rank_range}`")
+                        with col_bar:
+                            st.progress(progress_val)
+                            st.caption(f"{row['count']} Shared Courses")
+            else:
+                st.info(f"No strong curriculum connections (3+ courses) found for {selected_dept}.")
 
     with tab2:
-        st.header("Sankey Flow Diagram")
-        if not links.empty:
-            all_nodes = list(pd.concat([links['Department'], links['Related Dept']]).unique())
-            mapping = {node: i for i, node in enumerate(all_nodes)}
-            
-            fig = go.Figure(data=[go.Sankey(
-                node = dict(
-                    pad = 15, thickness = 20, line = dict(color = "black", width = 0.5),
-                    label = all_nodes, color = "teal"
-                ),
-                link = dict(
-                    source = links['Department'].map(mapping),
-                    target = links['Related Dept'].map(mapping),
-                    value = links['value']
-                )
-            )])
-            st.plotly_chart(fig, use_container_width=True)
-        else:
-            st.info("No connections match the current filter strength.")
-
-    with tab3:
-        st.header("Ranking Metrics")
-        if not links.empty:
-            G = nx.from_pandas_edgelist(links, 'Department', 'Related Dept', create_using=nx.DiGraph())
-            
-            rankings = pd.DataFrame({
-                'Department': list(G.nodes()),
-                'Influence (In-Degree)': list(nx.in_degree_centrality(G).values()),
-                'Dependency (Out-Degree)': list(nx.out_degree_centrality(G).values()),
-                'Bridge Factor': list(nx.betweenness_centrality(G).values())
-            }).sort_values('Influence (In-Degree)', ascending=False)
-            
-            st.subheader("Top Influential Departments")
-            st.dataframe(rankings.style.background_gradient(cmap='YlGnBu'), use_container_width=True)
-            
-            # Download Button
-            csv = rankings.to_csv(index=False).encode('utf-8')
-            st.download_button("Download Rankings CSV", data=csv, file_name="rankings.csv", mime="text/csv")
-
-st.sidebar.markdown("---")
-st.sidebar.info("Developed for: Research on Departmental Popularity Trends.")
+        st.header("🌐 Global Connectivity Map")
+        chord_path = get_file_path("academic_chord.html")
+        if chord_path:
+            with open(chord_path, 'r') as f:
+                st.components.v1.html(f.read(), height=800)
